@@ -1,4 +1,7 @@
 # hw01
 
-Hello, Homework 1
-#Angel ALiseda
+Hello! 
+
+Homework 1
+
+#Angel Aliseda
